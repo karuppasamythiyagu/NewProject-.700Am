@@ -6,5 +6,10 @@ public class GreensDetails {
 		System.out.println("Greens Main location:Adyar");
 
 	}
+	
+	private void greensAnotherLocation() {
+		System.out.println("Another Location:Perumpakkam");
+
+	}
 
 }
