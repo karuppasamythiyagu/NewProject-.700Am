@@ -11,5 +11,10 @@ public class GreensDetails {
 		System.out.println("Another Location:Perumpakkam");
 
 	}
+	
+	private void greensMainCourse() {
+		System.out.println("Java Selenium frame Work");
+
+	}
 
 }
